@@ -1,4 +1,4 @@
-# Engenharia-de-prompt-e-aplicacao-AI
+# Engenharia-de-Prompt-e-Aplicacao-AI
 
 ## Comparação pratica de prompts 
 
