@@ -90,4 +90,13 @@ O **ReUDF** foi desenvolvido como uma iniciativa da **Comunidade UDF · 2026**, 
 
 - **Public
 
-- https://amandasouzasantos2911.bubbleapps.io/version-test?debug_mode=true  
+- https://amandasouzasantos2911.bubbleapps.io/version-test?debug_mode=true
+- 📝 Registro da Aula -Data: 26/05/2026
+
+-Atividade: Discussão crítica + mini-projeto de aplicação
+
+-Local: Laboratório de informática / Quadro branco
+
+-Professor(a): Kadidja Valéria
+
+-Estudante: Amanda Souza dos Santos
